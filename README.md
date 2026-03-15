@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://energy-yield-optimizer.streamlit.app)
+
 # Energy-Aware Production Optimizer
 
 A machine learning project that simultaneously optimizes **manufacturing yield** and **energy consumption** using real industrial datasets.
